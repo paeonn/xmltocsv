@@ -1,2 +1,2 @@
 # xmltocsv
-Conversor de Notas Fiscais(XML) para formato CSV usando Python3
+Converter of Invoices(XML) to CSV format using Python3
